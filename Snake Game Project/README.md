@@ -1,6 +1,6 @@
-![snakegame](https://github.com/user-attachments/assets/9402ecb5-7d92-4c45-a114-c58037f98881)
-
 ## Snake Game Project
+
+![snakegame](https://github.com/user-attachments/assets/9402ecb5-7d92-4c45-a114-c58037f98881)
 
 This project is a console-based implementation of the classic Snake game written in C. It involves a dynamically growing snake that the player controls to collect food items, which increases the snake's length. The game ends when the snake collides with itself or the walls. Below is an overview of the project's features, file structure, and usage instructions.
 
