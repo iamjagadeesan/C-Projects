@@ -1,3 +1,4 @@
+![snakegame](https://github.com/user-attachments/assets/9402ecb5-7d92-4c45-a114-c58037f98881)
 
 ## Snake Game Project
 
