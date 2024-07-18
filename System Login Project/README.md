@@ -1,3 +1,7 @@
+![sl1](https://github.com/user-attachments/assets/ca429a10-5e50-4c87-b516-e8b27e7438fb)
+![sl2](https://github.com/user-attachments/assets/e84e5651-e8e0-4964-871e-ba98fa2f6603)
+![sl3](https://github.com/user-attachments/assets/25d881b9-b857-4b3f-92a6-7838afd54d5c)
+
 This project is a simple console-based login and signup system written in C. The program allows users to create an account (signup) and then log in using their credentials. It includes a variety of features such as input validation, user feedback, and a loading animation for better user experience. Here is a brief overview of the project's components:
 
 ## Project Overview
